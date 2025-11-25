@@ -52,10 +52,10 @@ Open **Image Tagger** from your Start Menu.
 We are actively improving Image Tagger. To vote for a feature, click the link and add a "Thumbs Up" (👍) reaction to the issue.
 
 | Feature Request | Current Votes |
-| :---- | :---- |
-| **[Dark Mode](https://github.com/MLT-solutions/Image-Tagger/issues/2)| https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/2/%2B1 |
-| [**IPTC Core** (Copyright) Support](https://github.com/MLT-solutions/Image-Tagger/issues/3) | https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/3/%2B1 |
-| [**Mac OS** Version](https://github.com/MLT-solutions/Image-Tagger/issues/4) | https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/4/%2B1 |
+| :--- | :--- |
+| [**Dark Mode** Support](https://github.com/MLT-solutions/Image-Tagger/issues/2) | ![Votes](https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/2/%2B1?label=Votes&style=flat-square) |
+| [**IPTC Core** (Copyright) Support](https://github.com/MLT-solutions/Image-Tagger/issues/3) | ![Votes](https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/3/%2B1?label=Votes&style=flat-square) |
+| [**Mac OS** Version](https://github.com/MLT-solutions/Image-Tagger/issues/4) | ![Votes](https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/4/%2B1?label=Votes&style=flat-square) |
 
 Have a new idea?
 [Click here to submit a request](https://github.com/MLT-solutions/Image-Tagger/issues/new)
