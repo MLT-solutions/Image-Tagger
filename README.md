@@ -60,3 +60,16 @@ We are actively improving Image Tagger. To vote for a feature, click the link an
 Have a new idea?
 [Click here to submit a request](https://github.com/MLT-solutions/Image-Tagger/issues/new)
 
+
+## **Disclaimer**
+
+
+**DISCLAIMER OF WARRANTY**
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**BACKUP WARNING:** This software modifies the internal data of your image files. While every effort has been made to ensure safety, data corruption is theoretically possible during file operations. **Always work on copies of your images, never the originals.**
+
+
+
+---
