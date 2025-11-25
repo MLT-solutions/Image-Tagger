@@ -24,7 +24,8 @@ We offer two versions of the application on the Microsoft Store to suit differen
 ## **✨ Features**
 
 * **Bulk EXIF Writing:** Writes standard XPTitle (Windows Title), XPKeywords (Windows Tags), and ImageDescription (IPTC/Standard).  
-* **Universal Compatibility:** Metadata is readable by Windows Explorer, Adobe Lightroom, Bridge, and online stock agencies.  
+* **Agency-Ready CSV Export:** Automatically generates a metadata.csv log file (with Filename, Title, Keywords, Category columns) formatted for direct upload to **leading stock photography marketplaces**.  
+* **Universal Compatibility:** Metadata is readable by Windows Explorer, Lightroom, Bridge, and other asset managers.  
 * **Smart Sorting:** Automatically sorts images alphanumerically (img\_001.jpg, img\_002.jpg) to ensure alignment with your text list.  
 * **Privacy Focused:** Runs 100% offline. No data is sent to the cloud.
 
