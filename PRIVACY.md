@@ -32,4 +32,4 @@ We may update our Privacy Policy from time to time to comply with Microsoft Stor
 
 ## **6\. Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us via the [GitHub Issues page](https://www.google.com/search?q=https://github.com/YourUsername/ImageTagger/issues).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us via the [GitHub Issues page](https://github.com/MLT-solutions/Image-Tagger/issues).
