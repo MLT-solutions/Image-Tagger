@@ -58,11 +58,11 @@ Open **Image Tagger** from your Start Menu.
 
 We are actively improving Image Tagger. To vote for a feature, click the link and add a "Thumbs Up" (👍) reaction to the issue.
 
-| Feature Request | Current Votes |
+| Feature Request | Vote Link |
 | :--- | :--- |
-| [**Dark Mode** Support](https://github.com/MLT-solutions/Image-Tagger/issues/2) | ![Votes](https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/2/%2B1?label=Votes&style=flat-square) |
-| [**IPTC Core** (Copyright) Support](https://github.com/MLT-solutions/Image-Tagger/issues/3) | ![Votes](https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/3/%2B1?label=Votes&style=flat-square) |
-| [**Mac OS** Version](https://github.com/MLT-solutions/Image-Tagger/issues/4) | ![Votes](https://img.shields.io/github/reactions/issue/MLT-solutions/Image-Tagger/4/%2B1?label=Votes&style=flat-square) |
+| [**Dark Mode** Support](https://github.com/MLT-solutions/Image-Tagger/issues/2) | [![Vote](https://img.shields.io/badge/Vote-%F0%9F%91%8D-blue?style=flat-square)](https://github.com/MLT-solutions/Image-Tagger/issues/2) |
+| [**IPTC Core** (Copyright) Support](https://github.com/MLT-solutions/Image-Tagger/issues/3) | [![Vote](https://img.shields.io/badge/Vote-%F0%9F%91%8D-blue?style=flat-square)](https://github.com/MLT-solutions/Image-Tagger/issues/3) |
+| [**Mac OS** Version](https://github.com/MLT-solutions/Image-Tagger/issues/4) | [![Vote](https://img.shields.io/badge/Vote-%F0%9F%91%8D-blue?style=flat-square)](https://github.com/MLT-solutions/Image-Tagger/issues/4) |
 
 Have a new idea?
 [Click here to submit a request](https://github.com/MLT-solutions/Image-Tagger/issues/new)
