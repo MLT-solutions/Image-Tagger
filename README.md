@@ -1,4 +1,7 @@
+
 # **Image Tagger: Batch Metadata Editor**
+
+<img width="1261" height="703" alt="Screenshot 2025-11-28 085157" src="https://github.com/user-attachments/assets/0b1b460c-79d4-41b6-88c5-6f5bb1da5927" />
 
 **Image Tagger** is a streamlined Windows application designed for stock photographers, archivists, and AI dataset creators. It automates the tedious process of writing Titles and Keywords to thousands of JPEG images by matching them with a simple text file.
 
@@ -8,11 +11,15 @@ We offer two versions of the application on the Microsoft Store to suit differen
 
 ### **1\. Image Tagger Lite (Free)**
 
+<img width="1544" height="695" alt="Screenshot 2025-11-28 084847" src="https://github.com/user-attachments/assets/439b56b1-2f72-4c0c-b9e1-9d333526f3e6" />
+
 * **Best for:** Simple, linear tagging.  
 * **Function:** Matches Line 1 of a text file to Image 1 in a folder.  
 * **Speed:** Extremely fast, minimal interface.
 
 ### **2\. Image Tagger Pro (Paid)**
+
+<img width="1547" height="735" alt="Screenshot 2025-11-28 084834" src="https://github.com/user-attachments/assets/dfe40c12-1d50-4782-965b-a46d867ebd97" />
 
 * **Best for:** Visual culling, cropping, and complex batching.  
 * **Features:**  
