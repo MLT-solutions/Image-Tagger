@@ -17,6 +17,9 @@ We offer two versions of the application on the Microsoft Store to suit differen
 * **Function:** Matches Line 1 of a text file to Image 1 in a folder.  
 * **Speed:** Extremely fast, minimal interface.
 
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P7B4TJ0S620)
+
+
 ### **2\. Image Tagger Pro (Paid)**
 
 <img width="1547" height="735" alt="Screenshot 2025-11-28 084834" src="https://github.com/user-attachments/assets/dfe40c12-1d50-4782-965b-a46d867ebd97" />
@@ -36,11 +39,20 @@ We offer two versions of the application on the Microsoft Store to suit differen
 * **Smart Sorting:** Automatically sorts images alphanumerically (img\_001.jpg, img\_002.jpg) to ensure alignment with your text list.  
 * **Privacy Focused:** Runs 100% offline. No data is sent to the cloud.
 
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NXCJ1V2PJP1)
+
 ## **🛠️ Installation & Usage**
 
 ### **1\. Download**
 
 Get the application directly from the **Microsoft Store** to ensure you have the latest, verified version.
+### Image Tagger Lite
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P7B4TJ0S620)
+
+### Image Tagger Pro
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NXCJ1V2PJP1)
+
+
 
 ### **2\. Launch**
 
